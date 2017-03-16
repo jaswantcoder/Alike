@@ -1,0 +1,18 @@
+{
+  "name": "alike",
+  "version": "1.0.0",
+  "description": "A chat app where one can chat with people with similar interest",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "Kriti Amartya",
+  "license": "ISC",
+  "dependencies": {
+    "bad-words": "^1.4.2",
+    "firebase": "^3.6.0",
+    "firebase-admin": "^4.0.1",
+    "firebase-queue": "^1.5.0"
+  }
+}
