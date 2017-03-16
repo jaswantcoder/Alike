@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "189517801260",
+    "firebase_url": "https://alike-ed1bd.firebaseio.com",
+    "project_id": "alike-ed1bd",
+    "storage_bucket": "alike-ed1bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189517801260:android:b5d75907de594a2d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189517801260-fg61i4uejt64v9n44cdalueji11vcji3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "528B214FF498D2F2ECDDD92F2571D42D191AEDFB"
+          }
+        },
+        {
+          "client_id": "189517801260-l0mffhmu9me025gpdcoikq7s2ork1i5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_r_rnPs1OxGR7l5DKw22ZIAjgq5N-ilg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189517801260-l0mffhmu9me025gpdcoikq7s2ork1i5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
